@@ -33,6 +33,8 @@ let nomecliente = 'Otávio';
 
 Não podemos redaclarar a variável com let
 
+- Não utilizar var, e sim utilizar let
+
 
 
 
