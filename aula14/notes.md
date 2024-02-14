@@ -1,0 +1,1 @@
+Alguns números podem vim com certas imprecisões, então vimos formas de converter eles para corrigir essas imprecisões através do parseFloat, e também com uma fórmula pré-estabelicida.
